@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Noplikz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Rakan Nafis
 
-<!---
-Noplikz/Noplikz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+ 
+As A Frontend Junior.
+
+🖖 Coding Enthusiast | ☕️ Gym Lover | 👶🏻 Junior Progammer
